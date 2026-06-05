@@ -58,8 +58,6 @@ phishing-decision-tree
 ├── src
 │   └── main.py
 │
-├── report
-├── presentation
 ├── README.md
 └── requirements.txt
 ```

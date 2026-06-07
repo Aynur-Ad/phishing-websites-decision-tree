@@ -143,7 +143,7 @@ importance = pd.Series(
 
 importance = importance.sort_values(ascending=False)
 
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(12, 8))
 
 sns.barplot(
     x=importance.head(10).values,
@@ -154,7 +154,9 @@ plt.title("En Önemli 10 Özellik")
 plt.xlabel("Önem Değeri")
 plt.ylabel("Özellikler")
 
-plt.savefig("outputs/feature_importance.png")
+plt.tight_layout()
+
+plt.savefig("outputs/feature_importance.png", bbox_inches="tight")
 plt.show()
 
 

@@ -89,10 +89,9 @@ Modelin `max_depth=5` parametresine göre kök düğümden (`SSLfinal_State <= 0
 
 ---
 
-```
 ## 📁 Proje Yapısı
 
-```text
+```
 phishing-decision-tree
 │
 ├── data/
@@ -163,6 +162,3 @@ python src/main.py
 * **Bölüm:** Bilgisayar Mühendisliği Bölümü
 * **Dönem:** Haziran 2026
 
-```
-
-```

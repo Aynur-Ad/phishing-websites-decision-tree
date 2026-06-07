@@ -1,12 +1,8 @@
 # 🛡️ Phishing Web Sitelerinin Decision Tree Algoritması ile Sınıflandırılması
 
-[![Python Version](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)](https://scikit-learn.org/)
-[![Academic Project](https://img.shields.io/badge/Academic-Project-red.svg)]()
-
 ## 📌 Proje Hakkında
 
-[![Sunum Videosu](https://img.shields.io/badge/YouTube-Sunum%20Videosunu%20İzle-red?logo=youtube&logoColor=white)](YOUTUBE_VIDEO_LINKINIZI_BURAYA_YAZIN)
+**Proje Sunum Videosu (YouTube):** YOUTUBE_VIDEO_LINKINIZI_BURAYA_YAZIN
 
 Bu proje, **Bursa Teknik Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği Bölümü** kapsamında yürütülen **BLM0463 Veri Madenciliğine Giriş** dersi dönem projesi olarak geliştirilmiştir.
 
@@ -115,24 +111,24 @@ phishing-decision-tree
 💻 Kurulum ve Çalıştırma
 
 Gereksinimler
+
 Proje çalıştırılmadan önce sisteminizde Python 3.x ortamının kurulu olduğundan emin olunuz. Gerekli kütüphaneler: pandas, numpy, scikit-learn, matplotlib, seaborn, scipy.
 
 Depoyu klonlayın veya proje klasörüne gidin:
 
-Bash
 cd phishing-decision-tree
+
 Gerekli kütüphaneleri terminal üzerinden yükleyin:
 
-Bash
 pip install -r requirements.txt
+
 Projeyi başlatın:
 
-Bash
 python src/main.py
-🎓 Proje Ekibi ve Yönetim
-Hazırlayan: Aynur Adıbelli
 
-Öğrenci Numarası: 22360859008
+🎓 Proje Ekibi ve Yönetim
+
+Hazırlayan: Aynur Adıbelli
 
 Kurum: Bursa Teknik Üniversitesi
 

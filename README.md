@@ -89,6 +89,7 @@ Modelin `max_depth=5` parametresine göre kök düğümden (`SSLfinal_State <= 0
 
 ---
 
+```
 ## 📁 Proje Yapısı
 
 ```text
@@ -108,30 +109,60 @@ phishing-decision-tree
 ├── README.md                      # Proje genel dökümantasyonu
 └── requirements.txt               # Bağımlı kütüphaneler listesi
 
-💻 Kurulum ve Çalıştırma
+```
 
-Gereksinimler
+---
 
-Proje çalıştırılmadan önce sisteminizde Python 3.x ortamının kurulu olduğundan emin olunuz. Gerekli kütüphaneler: pandas, numpy, scikit-learn, matplotlib, seaborn, scipy.
+## 💻 Sistem Gereksinimleri
 
-Depoyu klonlayın veya proje klasörüne gidin:
+Projenin sorunsuz çalıştırılabilmesi için sisteminizde **Python 3.x** ortamının kurulu olması gerekmektedir. Projede kullanılan temel veri madenciliği ve görselleştirme kütüphaneleri şunlardır:
 
+* `pandas`
+* `numpy`
+* `scikit-learn`
+* `matplotlib`
+* `seaborn`
+* `scipy`
+
+---
+
+## 🚀 Kurulum ve Bağımlılıkların Yüklenmesi
+
+Gerekli bağımlılıkları yüklemek için öncelikle terminal veya komut satırı üzerinden projenin ana dizinine geçiş yapınız:
+
+```
 cd phishing-decision-tree
 
-Gerekli kütüphaneleri terminal üzerinden yükleyin:
+```
 
+Ardından, projenin ihtiyaç duyduğu tüm kütüphaneleri `requirements.txt` dosyası üzerinden otomatik olarak yüklemek için aşağıdaki komutu çalıştırınız:
+
+```
 pip install -r requirements.txt
 
-Projeyi başlatın:
+```
 
+---
+
+## 🏃 Projeyi Çalıştırma
+
+Veri ön işleme, model eğitimi, test süreçlerini başlatmak ve performans grafiklerini `outputs/` klasörüne kaydetmek için ana kaynak kodunu aşağıdaki komutla çalıştırabilirsiniz:
+
+```
 python src/main.py
 
-🎓 Proje Ekibi ve Yönetim
+```
 
-Hazırlayan: Aynur Adıbelli
+---
 
-Kurum: Bursa Teknik Üniversitesi
+## 🎓 Proje Ekibi ve Yönetim
 
-Bölüm: Bilgisayar Mühendisliği Bölümü
+* **Hazırlayan:** Aynur Adıbelli
+* **Kurum:** Bursa Teknik Üniversitesi
+* **Fakülte:** Mühendislik ve Doğa Bilimleri Fakültesi
+* **Bölüm:** Bilgisayar Mühendisliği Bölümü
+* **Dönem:** Haziran 2026
 
-Dönem: Haziran 2026
+```
+
+```

@@ -114,7 +114,7 @@ phishing-decision-tree
 
 ## 💻 Sistem Gereksinimleri
 
-Projenin sorunsuz çalıştırılabilmesi için sisteminizde **Python 3.x** ortamının kurulu olması gerekmektedir. Projede kullanılan temel veri madenciliği ve görselleştirme kütüphaneleri şunlardır:
+Projenin sorunsuz çalıştırılabilmesi için sisteminizde **Python 3.12.3** ortamının kurulu olması gerekmektedir. Projede kullanılan temel veri madenciliği ve görselleştirme kütüphaneleri şunlardır:
 
 * `pandas`
 * `numpy`

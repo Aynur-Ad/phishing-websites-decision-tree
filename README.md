@@ -2,7 +2,7 @@
 
 ## 📌 Proje Hakkında
 
-**Proje Sunum Videosu (YouTube):** YOUTUBE_VIDEO_LINKINIZI_BURAYA_YAZIN
+**Proje Sunum Videosu (YouTube):** 🔗 https://www.youtube.com/watch?v=v7fNYCLmBcA
 
 Bu proje, **Bursa Teknik Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Bilgisayar Mühendisliği Bölümü** kapsamında yürütülen **BLM0463 Veri Madenciliğine Giriş** dersi dönem projesi olarak geliştirilmiştir.
 
